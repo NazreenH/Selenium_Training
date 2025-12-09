@@ -1,4 +1,4 @@
 
-num=-7
+num=input("enter number:")
 
-print(abs(num))
+print(abs(int(num)))
